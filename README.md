@@ -1,6 +1,7 @@
 ## CSS em Acção: Conteúdo Invisível apenas para Utilizadores de Leitor de Ecrã.
 
 ### Introdução
+## Olá Nuno
 
 A grande maioria das técnicas que tornam o conteúdo da web acessível a leitores de ecrã são **invisíveis** aos utilizadores que fazem uso da visão. O texto alternativo nas imagens (uso do atributo `alt`), a identificação dos cabeçalhos de uma tabela (uso do elemento `<th>`), o sumariar uma tabela (atributo `summary`), assim como a etiquetagem dos campos de um formulário (uso do elemento `<label>`) são alguns dos exemplos de técnicas extremamente úteis para quem usa leitores de ecrã, como é o caso das pessoas cegas. Para os conteúdos web o impacto da utilização destas técnicas, do ponto de vista gráfico, é mínimo ou mesmo nulo.
 
